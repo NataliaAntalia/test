@@ -20,6 +20,7 @@ function App() {
         </a>
         <p>Test1</p>
         <p>Some text1</p>
+        <p>Some text2</p>
       </header>
     </div>
   );
